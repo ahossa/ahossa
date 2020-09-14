@@ -13,6 +13,11 @@ I'm **Asif Bin Hossain**, but you can also call me **Evan**
 - I'm a big fan of well crafted & readable documentation that explains What, why, how & when of the underlying concept to an 8th grader -- trust me, its an ART! 🎨
 - Creativity, Learning & Curiosity is what keeps me going 🤔 
 
+### What `Technologies` are you familiar with? 🖥️
+
+- Back-End : C++, Node.js, Java, Python
+- Front-End : .Net, React.js
+- AWS : 
 <!--
 **ahossa/ahossa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
