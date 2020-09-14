@@ -14,10 +14,13 @@ I'm **Asif Bin Hossain**, but you can also call me **Evan**
 - Creativity, Learning & Curiosity is what keeps me going 🤔 
 
 ### What `Technologies` are you familiar with? 🖥️
+- Application & Data : Objective C, C++, Python, Javascript, C#, React, Ubuntu, Html5, Css
+- DevOps : Github, Subversion, Docker, Jenkins
+- AWS Development : Amazon EC2, S3, DynamoDB, Lambda
+- AWS Comm & events : Amazon SQS, SNS, Events & Lambda, Step-Functions
+- AWS Deployment, Scalability & Monitoring : Elastic Beanstalk, CloudFormation, ElastiCache, CloudFront, CouldWatch
 
-- Back-End : C++, Node.js, Java, Python
-- Front-End : .Net, React.js
-- AWS : 
+
 <!--
 **ahossa/ahossa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
