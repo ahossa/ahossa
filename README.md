@@ -51,7 +51,8 @@ I'm **Asif Bin Hossain**, but you can also call me **Evan** -- That's not just a
 
 Didn't readlly want to mention Engineering & Coding since its kind of obvious 🙄 
 
-### What `Technologies` are you familiar with? 🖥️
+***
+### What `Technologies` am i familiar with? 🖥️
 - Application & Data : Objective C, C++, Python, Javascript, C#, React, Ubuntu, Html5, Css, Figma
 - DevOps : Github, Subversion, Docker, Jenkins
 - Utilities : Jira, Confluence, Office 365, MindMap
