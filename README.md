@@ -8,16 +8,16 @@ I'm **Asif Bin Hossain**, but you can also call me **Evan** -- That's not just a
 
 ***
 [**Moden Music Player** 🎶](https://ahossa.github.io/moden-music-player/)
-check out this **Music Player** web-application that has a moden layout for the web.
+- check out this **Music Player** web-application that has a moden layout for the web like spotify
 
 ***
 [**LightMode-DarkMode** ☀️⛅](https://ahossa.github.io/light-dark-mode/)
-I'm a big fan of darkmode & frankly speaking, who isn't? So i re-created the **Light-Mode Dark-Mode** switching feature from popular webapps like youtube & facebook
+- I'm a big fan of darkmode & frankly speaking, who isn't? So i re-created the **Light-Mode Dark-Mode** switching feature from popular webapps like youtube & facebook
 
 
 ***
 [**Animated Template** ⏳](https://ahossa.github.io/animated-template/) 
-**Animations!** Who doesn't love them right? So i created an **Animated Template Landing Page** that's modern looking & has ... you'll figure it out! Check out the [Readme](https://github.com/ahossa/animated-template) on how i did it!
+- **Animations!** Who doesn't love them right? So i created an **Animated Template Landing Page** that's modern looking & has ... you'll figure it out! Check out the [Readme](https://github.com/ahossa/animated-template) on how i did it!
 
 ***
 [**Infinite Scroll** 📜](https://ahossa.github.io/infinite-scroll-priv/)
