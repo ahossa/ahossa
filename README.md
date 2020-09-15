@@ -2,21 +2,31 @@
 I'm **Asif Bin Hossain**, but you can also call me **Evan** -- That's not just a random name i picked, that's my nickname 🧛‍♂️ !
 
 ### Here are my top 5 `Personal Projects` that i'm proud of
+***
 [**Algorithm Visualizer** 🔢](https://ahossa.github.io/pathfinding-visualizer/)
 ***
 Ever seen **algorithms in action?** if you haven't Then you must check out this project. I recreated the **Algorithm Visualizer** project that created a lot of movement for **visualiation**. Checkit out, **Play & Visualize how some of the famous Algorithms are working behind the scene!** I've used **React.js** to build this fun project.
 
+***
 [**Moden Music Player** 🎶](https://ahossa.github.io/moden-music-player/)
 ***
 check out this **Music Player** web-application that has a moden layout for the web.
 
-[**LightMode-DarkMode** ☀️⛅](https://ahossa.github.io/light-dark-mode/) : I'm a big fan of darkmode & frankly speaking, who isn't? So i re-created the **Light-Mode Dark-Mode** switching feature from popular webapps like youtube & facebook
 ***
-
-[**Animated Template** ⏳](https://ahossa.github.io/animated-template/) : **Animations!** Who doesn't love them right? So i created an **Animated Template Landing Page** that's modern looking & has ... you'll figure it out! Check out the [Readme](https://github.com/ahossa/animated-template) on how i did it!
+[**LightMode-DarkMode** ☀️⛅](https://ahossa.github.io/light-dark-mode/)
 ***
+I'm a big fan of darkmode & frankly speaking, who isn't? So i re-created the **Light-Mode Dark-Mode** switching feature from popular webapps like youtube & facebook
 
-[**Infinite Scroll** 📜](https://ahossa.github.io/infinite-scroll-priv/) : If you're on any social media, then must have knowingly/unknowingly come across infinite scroll feature, where you keep scrolling .. keep scrolling ... & keep scrolling but it just doesn't end! So this is **A demonstration of the Infinite-scroll feature used in popular social media webpages/webapps like Facebook, Instagram, LinkedIn**. Check out the [Readme](https://github.com/ahossa/inifinite-scroll/wiki) on how i did it!
+
+***
+[**Animated Template** ⏳](https://ahossa.github.io/animated-template/) 
+***
+**Animations!** Who doesn't love them right? So i created an **Animated Template Landing Page** that's modern looking & has ... you'll figure it out! Check out the [Readme](https://github.com/ahossa/animated-template) on how i did it!
+
+***
+[**Infinite Scroll** 📜](https://ahossa.github.io/infinite-scroll-priv/)
+***
+If you're on any social media, then must have knowingly/unknowingly come across infinite scroll feature, where you keep scrolling .. keep scrolling ... & keep scrolling but it just doesn't end! So this is **A demonstration of the Infinite-scroll feature used in popular social media webpages/webapps like Facebook, Instagram, LinkedIn**. Check out the [Readme](https://github.com/ahossa/inifinite-scroll/wiki) on how i did it!
 
 ### Here are 10 `Highlights` about me 🔭 
 - I'm an Aerospace Engineering Grad, Does it make me a :rocket:	scientist?
