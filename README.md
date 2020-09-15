@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm **Asif Bin Hossain**, but you can also call me **Evan** -- That's not just a random name i picked, that's my nickname 🧛‍♂️ !
 
-### Here are my top 5 `Personal Projects` that i'm proud of
+## What are my top 5 `Personal Projects` that i'm really proud of? 😆
 ***
 [**Algorithm Visualizer** 🔢](https://ahossa.github.io/pathfinding-visualizer/)
 - Ever seen **algorithms in action?** if you haven't Then you must check out this project. I recreated the **Algorithm Visualizer** project that created a lot of movement for **visualiation**. Checkit out, **Play & Visualize how some of the famous Algorithms are working behind the scene!** I've used **React.js** to build this fun project.
@@ -24,7 +24,7 @@ I'm **Asif Bin Hossain**, but you can also call me **Evan** -- That's not just a
 - If you're on any social media, then must have knowingly/unknowingly come across infinite scroll feature, where you keep scrolling .. keep scrolling ... & keep scrolling but it just doesn't end! So this is **A demonstration of the Infinite-scroll feature used in popular social media webpages/webapps like Facebook, Instagram, LinkedIn**. Check out the [Readme](https://github.com/ahossa/inifinite-scroll/wiki) on how i did it!
 
 ***
-### Here are 10 `Highlights` about me 🔭 
+## What are 10 `Highlights` about me & my work? 🔭 
 - I'm an Aerospace Engineering Grad, Does it make me a :rocket:	scientist?
 - I'm currently working on the web Technology & distributed systems field, specifically on the implementation side of it  💻 🔗 
 - I'm a strong believer of Stackable Skills 📚
@@ -37,7 +37,7 @@ I'm **Asif Bin Hossain**, but you can also call me **Evan** -- That's not just a
 - Creativity, Learning & Curiosity is what keeps me going 🤔 
 
 ***
-### What are my top 10 `Stackable Skills`?
+## What are my top 10 `Stackable Skills`? 🧱
 - Empathy 🤗
 - Leadership 🗣️
 - Self Learning 📚
@@ -52,13 +52,13 @@ I'm **Asif Bin Hossain**, but you can also call me **Evan** -- That's not just a
 Didn't readlly want to mention Engineering & Coding since its kind of obvious 🙄 
 
 ***
-### What `Technologies` am i familiar with? 🖥️
-- Application & Data : Objective C, C++, Python, Javascript, C#, React, Ubuntu, Html5, Css, Figma
-- DevOps : Github, Subversion, Docker, Jenkins
-- Utilities : Jira, Confluence, Office 365, MindMap
-- AWS Development : Amazon EC2, S3, DynamoDB, Lambda
-- AWS Comm & events : Amazon SQS, SNS, Events & Lambda, Step-Functions
-- AWS Deployment, Scalability & Monitoring : Elastic Beanstalk, CloudFormation, ElastiCache, CloudFront, CouldWatch
+## What `Technologies` am i familiar with? 🖥️
+- **Application & Data** : Objective C, C++, Python, Javascript, C#, React, Ubuntu, Html5, Css, Figma
+- **DevOps** : Github, Subversion, Docker, Jenkins
+- **Utilities** : Jira, Confluence, Office 365, MindMap
+- **AWS Development** : Amazon EC2, S3, DynamoDB, Lambda
+- **AWS Comm & events** : Amazon SQS, SNS, Events & Lambda, Step-Functions
+- **AWS Deployment, Scalability & Monitoring** : Elastic Beanstalk, CloudFormation, ElastiCache, CloudFront, CouldWatch
 
 
 <!--
