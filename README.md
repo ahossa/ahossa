@@ -21,8 +21,9 @@ I'm **Asif Bin Hossain**, but you can also call me **Evan** -- That's not just a
 
 ***
 [**Infinite Scroll** 📜](https://ahossa.github.io/infinite-scroll-priv/)
-If you're on any social media, then must have knowingly/unknowingly come across infinite scroll feature, where you keep scrolling .. keep scrolling ... & keep scrolling but it just doesn't end! So this is **A demonstration of the Infinite-scroll feature used in popular social media webpages/webapps like Facebook, Instagram, LinkedIn**. Check out the [Readme](https://github.com/ahossa/inifinite-scroll/wiki) on how i did it!
+- If you're on any social media, then must have knowingly/unknowingly come across infinite scroll feature, where you keep scrolling .. keep scrolling ... & keep scrolling but it just doesn't end! So this is **A demonstration of the Infinite-scroll feature used in popular social media webpages/webapps like Facebook, Instagram, LinkedIn**. Check out the [Readme](https://github.com/ahossa/inifinite-scroll/wiki) on how i did it!
 
+***
 ### Here are 10 `Highlights` about me 🔭 
 - I'm an Aerospace Engineering Grad, Does it make me a :rocket:	scientist?
 - I'm currently working on the web Technology & distributed systems field, specifically on the implementation side of it  💻 🔗 
@@ -35,6 +36,7 @@ If you're on any social media, then must have knowingly/unknowingly come across 
 - I'm a big fan of well crafted & readable documentation that explains What, why, how & when of the underlying concept to an 8th grader -- trust me, its an ART! 🎨
 - Creativity, Learning & Curiosity is what keeps me going 🤔 
 
+***
 ### What are my top 10 `Stackable Skills`?
 - Empathy 🤗
 - Leadership 🗣️
