@@ -63,7 +63,7 @@ Didn't readlly want to mention Engineering & Coding since its kind of obvious �
 - **Cloud Computing**
 - **Immersive Storytelling**
 - **Machine Learning**
-- **Natural Language Processing***
+- **Natural Language Processing**
 
 <!--
 **ahossa/ahossa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
