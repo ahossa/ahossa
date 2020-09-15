@@ -4,7 +4,7 @@ I'm **Asif Bin Hossain**, but you can also call me **Evan** -- That's not just a
 ### Here are my top 5 `Personal Projects` that i'm proud of
 ***
 [**Algorithm Visualizer** 🔢](https://ahossa.github.io/pathfinding-visualizer/)
-# Ever seen **algorithms in action?** if you haven't Then you must check out this project. I recreated the **Algorithm Visualizer** project that created a lot of movement for **visualiation**. Checkit out, **Play & Visualize how some of the famous Algorithms are working behind the scene!** I've used **React.js** to build this fun project.
+- Ever seen **algorithms in action?** if you haven't Then you must check out this project. I recreated the **Algorithm Visualizer** project that created a lot of movement for **visualiation**. Checkit out, **Play & Visualize how some of the famous Algorithms are working behind the scene!** I've used **React.js** to build this fun project.
 
 ***
 [**Moden Music Player** 🎶](https://ahossa.github.io/moden-music-player/)
